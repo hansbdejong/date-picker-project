@@ -4,6 +4,8 @@ I built a date picker using a combination of HTML, CSS, and JavaScript. I did no
 
 The number of rows is not fixed (while most months have 5 weeks, some have 4 or 6 weeks) and some weeks contain days from a different month, which are showed in a dimmed fashion. The date picker also contains controls to change the calendar’s display to the previous or next month.
 
+**Skills:** JavaScript, HTML, CSS, Document Object Model, Object Oriented Programming, Event Listeners
+
 <br>
 
 <p align="center">
